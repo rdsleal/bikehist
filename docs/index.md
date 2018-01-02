@@ -1,3 +1,7 @@
+Quando a bike é registrada criamos um identificador único inalterável, solicitamos uma data de aquisição e km atual.
+
+Em qualquer alteração de registro solicitamos a km atual
+
 Bike Types 
 	Mountain Bike, Road Bike, Fitness & Urban, E-Bike, Kids
 
